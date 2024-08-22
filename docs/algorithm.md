@@ -44,7 +44,7 @@ The implementation contains 6 modules:
 
 The algorithm is described in greater detail
 [here](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm).
-Additional background regarding regarding this topic can be found at: [Spaced Repetition Overview](<./spaced-repetition-overview.md#%3CSpaced Repetition Overview>)
+Additional background regarding regarding this topic can be found at: [Spaced Repetition Overview](./spaced-repetition-overview.md)
 
 ### Parameters
 
