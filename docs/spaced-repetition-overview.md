@@ -18,7 +18,7 @@ how humans deal with memory
 ## Imperical Methods
 
 The forgetting curve models how memory is retained. The decay looks like
-the curve _e^(1/x^0.5)_. Initially there is a steep decline in retention
+the curve \\( e^(1 \over x^0.5) \\)\_. Initially there is a steep decline in retention
 rate and then it increases rapidly.
 
 In absence of active review, memory decay is rapid and slows down over time.
