@@ -4,4 +4,5 @@ title: "Spaced Repetition"
 
 # Notes related to Space Repetition
 
-- [Useful Links](./docs/useful-links.md)
+- [Useful Links](/docs/useful-links.md#implementations)
+- [Algorithm](</docs/algorithm.md# fsrs algorithm overview>)
