@@ -1,1 +1,1 @@
-# spaced-repetition.github.io
+# spaced-repetition

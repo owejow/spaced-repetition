@@ -5,6 +5,7 @@ title: "Spaced Repetition Overview"
 # Spaced Repetition Overview
 
 These notes summarize the contents of the following post [Spaced Repetition: A Three Day Journey from Novice to Expert](https://github.com/open-spaced-repetition/fsrs4anki/wiki/Spaced-Repetition-Algorithm:-A-Three%E2%80%90Day-Journey-from-Novice-to-Expert)
+$x^2 + 3x - 4$
 
 Spaced repetition tries to estimate and predict:
 
