@@ -9,7 +9,7 @@ title: "Useful Links"
 # Implementations
 
 - [Open Spaced Repetition](https://github.com/open-spaced-repetition)
-- [Elixir Implementation](https://github.com/open-spaced-repetition/ex_fsrs)
+- [Elixir Implementation](https://github.com/open-spaced-repetition/ex_fsrs/blob/master/lib/fsrs.ex)
 
 # Papers
 

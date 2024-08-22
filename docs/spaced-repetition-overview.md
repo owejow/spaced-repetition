@@ -35,7 +35,7 @@ The effectiveness of the Spaced repetition algorithm is explored in the papers:
 
 The above papers demonstrated that testing immediately folowing training showed
 superior performance and spaced practice is significantly superior to massed
-practice in terms of task performance.
+practice in terms of task performance. [[spaced-repetition-overview]]
 
 Spaced repetition software automates the tracking of memory states and
 efficient scheduling of reviews. Determining the optimal "short" intervals for
